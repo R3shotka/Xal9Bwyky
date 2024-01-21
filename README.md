@@ -1,4 +1,6 @@
-<span style="font-family: 'Times New Roman';">Ваш текст здесь це воно ?????? </span>
+<span style="font-family: 'Times New Roman';">МІНІСТЕРСТВО ОСВІТИ ТА НАУКИ УКРАЇНИ
+ЧЕРКАСЬКИЙ ДЕРЖАВНИЙ БІЗНЕС-КОЛЕДЖ
+?????? </span>
 
 
 # Проєкт: Мова програмування "PyExpo"
